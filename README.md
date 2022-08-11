@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @baturaysaglam
-- 👀 I’m interested in reinforcement learning theory, deep reinforcement learning and its applications. 
+- 👀 I’m interested in deep reinforcement learning and its applications. 
 - 🌱 I’m currently pursuing my Master's degree at Bilkent University, Ankara, Turkey. 
 - 📫 How to reach me: baturay@ee.bilkent.edu.tr, https://www.linkedin.com/in/baturay-saglam.
 
