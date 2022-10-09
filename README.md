@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @baturaysaglam
+- 👋 Hi, I’m [Baturay Saglam](https://baturaysaglam.com/)
 - 👀 I’m interested in deep reinforcement learning and its applications. 
 - 🌱 I’m currently pursuing my Master's degree at Bilkent University, Ankara, Turkey. 
 - 📫 How to reach me: baturay@ee.bilkent.edu.tr, https://www.linkedin.com/in/baturay-saglam.
