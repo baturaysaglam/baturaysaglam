@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [Baturay Saglam](https://baturaysaglam.com/).
-- 👀 I’m interested in deep reinforcement learning and its applications. 
-- 🌱 I’m an incoming Ph.D. student at Yale University. 
+- 👀 I’m interested in reinforcement learning and its applications, and optimization. 
+- 🌱 I’m a Ph.D. student at Yale University. 
 - 📫 How to reach me: baturay.saglam@yale.edu, https://www.linkedin.com/in/baturay-saglam/
 
 <!---
