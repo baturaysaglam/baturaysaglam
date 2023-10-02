@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [Baturay Saglam](https://baturaysaglam.com/).
-- 👀 I’m interested in reinforcement learning and its applications, and optimization. 
+- 👀 I’m interested in reinforcement learning and optimization, and their applications to variety of domains.
 - 🌱 I’m a Ph.D. student at Yale University. 
 - 📫 How to reach me: baturay.saglam@yale.edu, https://www.linkedin.com/in/baturay-saglam/
 
