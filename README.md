@@ -1,6 +1,6 @@
 - 🚀 Hi, I’m [Baturay](https://baturaysaglam.com/) (goes like _buh-too-rye_).
-- 🧠 I’m interested in mechanistic interpretability of LLMs. Sometimes I do and have done RL for fun.
-- 🏛️ I’m a Ph.D. student at Yale University and researcher at [Robust Intelligence](https://www.robustintelligence.com) (now part of Cisco). 
+- 🧠 I’m interested in mechanistic interpretability of LLMs. Sometimes I do (and have done) RL for fun.
+- 🏛️ I’m a Ph.D. student at Yale and researcher at [Robust Intelligence](https://www.robustintelligence.com) (now part of Cisco). 
 - 📡 Reach me at: [Yale e-mail](mailto:baturay.saglam@yale.edu)
 
 <!---
